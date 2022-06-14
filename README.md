@@ -38,8 +38,8 @@ Star's Flaw is an learning platform that teaches cyber security through gamified
       
       Let's take an example with the challenge XSS:
          - First, with your terminal go in the folder XSS_docker, this is the path: starsflaw/docker/XSS_docker
-         . Then type the command docker-compose up -d
-         . Stop the app with the command: docker-compose stop
+         - Then type the command docker-compose up -d
+         - Stop the app with the command: docker-compose stop
 
 ## Prerequisites
 
