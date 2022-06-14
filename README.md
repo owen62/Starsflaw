@@ -29,6 +29,10 @@ Star's Flaw is an learning platform that teaches cyber security through gamified
    
      To download our database, go to starsflaw/db/install_BDD.php and execute this page.
      If it is not working, you need to modify the file install_BDD.php the user at line 5 or change the database name at line 7 and 18.
+     
+   - Docker
+      
+      You need to install docker for access to some challenge. Go to [https://docs.docker.com/get-docker/]
 
 ## Prerequisites
 
