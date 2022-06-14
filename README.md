@@ -37,9 +37,9 @@ Star's Flaw is an learning platform that teaches cyber security through gamified
       When it's done you need to create a container for the challenge xss, reverse-shell, RSA and dirbuster.
       
       Let's take an example with the challenge XSS
-         - First, with your terminal go in the folder XSS_docker, this is the path: starsflaw/docker/XSS_docker
-         - Then type the command docker-compose up -d
-         - Stop the app with the command: docker-compose stop
+       - First, with your terminal go in the folder XSS_docker, this is the path: starsflaw/docker/XSS_docker
+       - Then type the command docker-compose up -d
+       - Stop the app with the command: docker-compose stop
 
 ## Prerequisites
 
