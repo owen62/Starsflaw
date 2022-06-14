@@ -32,7 +32,7 @@ Star's Flaw is an learning platform that teaches cyber security through gamified
      
    - Docker
       
-      Some chalenge require Docker to be lauched. Go to https://docs.docker.com/get-docker/ to install docker.
+      Some chalenge require Docker to be lauched. Go to https://docs.docker.com/get-docker/ to install it.
       First pull the images apache2 and mysql on your terminal with the command: docker pull httpd and docker pull mysql
       When it's done you need to create a container for the challenge xss, reverse-shell, RSA and dirbuster.
       
